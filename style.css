@@ -1,0 +1,84 @@
+body {
+  background-color: #F6F0A4;
+  background-image: url("data:image/svg+xml,%3Csvg width='16' height='20' viewBox='0 0 16 20' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffd3db' fill-opacity='0.35' fill-rule='evenodd'%3E%3Cpath d='M8 0v20L0 10M16 0v10L8 0M16 10v10H8'/%3E%3C/g%3E%3C/svg%3E");
+  font-family: 'Open Sans', sans-serif;
+  font-size: 17px;
+  font-weight: lighter;
+}
+
+h1, h2, h3 {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  color : #FFAEBC;
+  font-size: 24px;
+}
+
+h2 {
+  color : #C49BE0;
+  font-size: 24px;
+}
+
+h3 {
+  color : #96CCCD;
+  font-size: 24px;
+}
+
+a {
+  text-decoration: none;
+  color: #96CCCD;
+}
+
+a:hover {
+  color : #72CFEA;
+}
+
+.card-white {
+  background: white;
+  padding: 30px;
+  width: 500px;
+  margin: 10px auto;
+  border-radius: 3 px;
+  box-shadow: 1px 1px 2px #B3B3B3;
+}
+
+.img-circle {
+  border-radius: 25px;
+  text-align: center;
+}
+
+.btn-blue {
+  /*background:*/
+  padding: 10px 20px;
+  color: white;
+  font-weight: bold;
+  border-radius: 3px;
+  transition: all 0,3s ease;
+}
+
+.btn-blue:hover {
+  /*background:;*/
+  color: white;
+
+}
+
+.text-center {
+  text-align: center;
+/*  padding-left: 0px;*/
+}
+
+.list-inline {
+  list-style: none;
+  display: inline-block;
+  padding: 20px;
+  font-size: 20px;
+}
+
+
+
+
+
+
+
+
